@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.postimg.cc/Pfb2n9wk/DALL-E-2024-10-11-19-21-21-A-beautiful-nature-wallpaper-inspired-by-the-landscapes-of-Bangladesh.webp",
+      "author_img": "https://i.postimg.cc/d3n2ZM2k/dmjdbh.png",
+      "author_name": "Mohammad Imran",
+      "post_date": "1 October (21 days ago)",
+      "reading_time": 5,
+      "title": "The Rise of AI in Everyday Life",
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.postimg.cc/7YxXH93J/beautiful-mountains-landscape-1.jpg",
+      "author_img": "https://i.postimg.cc/Bv1BYV0k/IMG-2969.jpg",
+      "author_name": "Imran Parves",
+      "post_date": "15 September (37 days ago)",
+      "reading_time": 7,
+      "title": "Sustainable Living: Tips for Going Green",
+      "hashtags": ["#Sustainability", "#EcoFriendly", "#GreenLiving"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.postimg.cc/zX07Vh7t/beautiful-mountains-landscape.jpg",
+      "author_img": "https://i.postimg.cc/QtQksKVq/Untitled.jpg",
+      "author_name": "Salman Parves",
+      "post_date": "10 October (12 days ago)",
+      "reading_time": 6,
+      "title": "Exploring the Future of Renewable Energy",
+      "hashtags": ["#RenewableEnergy", "#CleanEnergy", "#FutureTech"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.postimg.cc/pLrZ8d12/wallpaperflare-com-wallpaper.jpg",
+      "author_img": "https://i.postimg.cc/jddQ05Tz/photo3.jpg",
+      "author_name": "Imran Sorker",
+      "post_date": "22 August (61 days ago)",
+      "reading_time": 4,
+      "title": "How to Stay Fit While Working from Home",
+      "hashtags": ["#Fitness", "#WFH", "#Health"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.postimg.cc/wjrkkdSD/wp12183505-black-pc-8k-wallpapers.png",
+      "author_img": "https://i.postimg.cc/qMbckTBW/20240526-154843.jpg",
+      "author_name": "MD. Imran",
+      "post_date": "30 September (22 days ago)",
+      "reading_time": 8,
+      "title": "The Impact of Social Media on Mental Health",
+      "hashtags": ["#SocialMedia", "#MentalHealth", "#WellBeing"]
+    }
+  ]
+  
